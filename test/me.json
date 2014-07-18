@@ -1,0 +1,60 @@
+{
+  "id":"xxxxxxxxxxxxxxxxxxxxxxxxx",
+  "avatarHash":"xxxxxxxxxxxxxxxxxxxxxx",
+  "bio":"",
+  "bioData":{
+    "emoji":{
+
+    }
+  },
+  "confirmed":true,
+  "fullName":"xxxx xxxxx",
+  "idPremOrgsAdmin":[
+
+  ],
+  "initials":"XX",
+  "memberType":"normal",
+  "products":[
+
+  ],
+  "status":"disconnected",
+  "url":"https://trello.com/xxxxxx",
+  "username":"xxxxx",
+  "avatarSource":"upload",
+  "email":null,
+  "gravatarHash":"xxxxx",
+  "idBoards":[
+    "xxxxxxxxxxxxxxxxxxxxxxxx",
+    "xxxxxxxxxxxxxxxxxxxxxxxx"
+  ],
+  "idBoardsPinned":[
+    "xxxxxxxxxxxxxxxxxxxxxxxx",
+    "xxxxxxxxxxxxxxxxxxxxxxxx"
+  ],
+  "loginTypes":null,
+  "newEmail":null,
+  "oneTimeMessagesDismissed":[
+    "newtrelloIntro",
+    "BoardMenuBC"
+  ],
+  "prefs":{
+    "sendSummaries":true,
+    "minutesBetweenSummaries":60,
+    "minutesBeforeDeadlineToNotify":1440,
+    "colorBlind":false,
+    "timezoneInfo":{
+      "timezoneNext":"EST",
+      "dateNext":"2014-11-02T06:00:00.000Z",
+      "offsetNext":300,
+      "timezoneCurrent":"EDT",
+      "offsetCurrent":240
+    }
+  },
+  "trophies":[
+    "xxxx"
+  ],
+  "uploadedAvatarHash":"xxxxxxxxxxxxxxxxxxxxx",
+  "premiumFeatures":[
+
+  ]
+}
