@@ -40,16 +40,19 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/netpoetica/co-node-trello"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/netpoetica/co-node-trello/issues"
   },
-  "engines": [
-    "node >= 0.6.17"
-  ],
   "main": "./index",
   "scripts": {
     "test": "node_modules/.bin/mocha --harmony test/test.js"
-  }
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/leukhin/co-request/blob/master/LICENSE.md"
+    }
+  ],
 }
