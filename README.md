@@ -40,7 +40,7 @@ co(function* () {
   console.log(member);
 
   // URL arguments are passed in as an object.
-  var openCards = yield t.get("/1/members/me", { cards: "open" });
+  var openCards = yield trello.get("/1/members/me", { cards: "open" });
   console.log(openCards);
 })();
 ```
