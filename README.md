@@ -5,7 +5,7 @@ The only difference between this module and the node-trello module (aside from w
 
 ```
 var settings = require("./settings.js");
-var trello = require('../')(settings.key, settings.token);
+var trello = require('co-node-trello')(settings.key, settings.token);
 ```
 Where settings is a file that exports a two Strings, your key and your token (instructions for generating below).
 
@@ -33,7 +33,7 @@ npm install co-node-trello
 ```javascript
 var co = requrie('co');
 var settings = require('./settings.js');
-var trello = require('../')(settings.key, settings.token);
+var trello = require('co-node-trello')(settings.key, settings.token);
 
 co(function* () {
   var member = yield trello.get("/1/members/me");
