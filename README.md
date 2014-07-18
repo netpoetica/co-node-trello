@@ -31,7 +31,8 @@ npm install co-node-trello
 
 ## Example Code
 ```javascript
-var settings = require("./settings.js");
+var co = requrie('co');
+var settings = require('./settings.js');
 var trello = require('../')(settings.key, settings.token);
 
 co(function* () {
