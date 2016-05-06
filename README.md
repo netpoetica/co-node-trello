@@ -31,7 +31,7 @@ npm install co-node-trello
 
 ## Example Code
 ```javascript
-var co = requrie('co');
+var co = require('co');
 var settings = require('./settings.js');
 var trello = require('co-node-trello')(settings.key, settings.token);
 
@@ -51,7 +51,7 @@ Released under [MIT](https://github.com/adunkman/node-trello/blob/master/LICENSE
 ## Thank you to..
 Tj for [Co library](http://github.com/visionmedia/co)
 
-adunkmans's [node-trello library](https://github.com/adunkman/node-trello)
+adunkman's [node-trello library](https://github.com/adunkman/node-trello)
 
 leukhin's [co-request](https://github.com/leukhin/co-request) for the example of how to wrap
 
